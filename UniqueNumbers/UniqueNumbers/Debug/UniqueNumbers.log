@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+  UniqueNumbers.cpp
+C:\Users\serik\source\repos\UniqueNumbers\UniqueNumbers\UniqueNumbers.cpp(1): warning C4603: UNIQUENUMBERS_EXPORT: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\serik\source\repos\UniqueNumbers\UniqueNumbers\UniqueNumbers.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\serik\source\repos\UniqueNumbers\UniqueNumbers\UniqueNumbers.cpp(2): message : использование предварительно скомпилированного заголовка
+C:\Users\serik\source\repos\UniqueNumbers\UniqueNumbers\UniqueNumbers.cpp(5,37): warning C4273: UniqueN: несовместимое связывание dll
+C:\Users\serik\source\repos\UniqueNumbers\UniqueNumbers\UniqueNumbers.h(11,23): message : см. предыдущее определение "UniqueN"
+  Создание кода...
+     Создается библиотека C:\Users\serik\source\repos\UniqueNumbers\Debug\UniqueNumbers.lib и объект C:\Users\serik\source\repos\UniqueNumbers\Debug\UniqueNumbers.exp
+  UniqueNumbers.vcxproj -> C:\Users\serik\source\repos\UniqueNumbers\Debug\UniqueNumbers.dll
